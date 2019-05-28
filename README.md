@@ -8,6 +8,6 @@ After getting a bit frustrated in setting up typescript project that includes ve
 
 ## Debugging guide using VScode
 
-- `tests` - go to debugger view in vscode(Cmd+Shift+D on mac), their you can find `Jest All` or `Jest Current file` as launch tasks. Put your debug point in anywhere in `index.test.js` and hit play button.
+- `tests` - go to debugger view in vscode(Cmd+Shift+D on mac), there you can find `Jest All` or `Jest Current file` as launch tasks. Put your debug point in anywhere in `index.test.js` and hit play button.
 
 - `program` - go to debugger view((Cmd+Shift+D on mac)) and use `Debug Program` task and hit play button.
